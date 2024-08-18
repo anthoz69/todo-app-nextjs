@@ -1,0 +1,1 @@
+export const baseURL: string = 'https://candidate-assignment.neversitup.com'
