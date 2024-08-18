@@ -23,24 +23,7 @@
 6. test: เพิ่มหรือแก้ไขเทส
 <br>
 <br>
-##### Project structure 
-```text
-src/
-├── api/
-├── app/
-│   ├── layout.tsx
-│   ├── page.tsx
-│   ├── api/
-│   │   └── route.ts
-│   ├── [dynamic]/
-│   │   └── page.tsx
-├── components/
-├── lib/
-├── types/
-├── services/
-├── config/
-```
-
+##### Project structure
 รายละเอียดโครงสร้าง ภายใต้ src folder ตามโครงสร้าง nextjs หรือจะไม่ใช้ src folder ก็ได้ขึ้นอยู่กับการตกลงของทีมพัฒนา
 **api**:
 สำหรับเก็บโค้ดที่เกี่ยวข้องกับการเรียก API หรือ services อื่นๆ ที่โปรเจกต์ต้องการ
